@@ -1,0 +1,109 @@
+remote: true
+generate_resume: false
+experienceLevel:
+  internship: false
+  entry: true
+  associate: true
+  mid-senior level: false
+  director: false
+  executive: false
+jobTypes:
+  full-time: true
+  contract: true
+  part-time: true
+  temporary: true
+  internship: false
+  other: false
+  volunteer: false
+date:
+  all time: false
+  month: true
+  week: false
+  24 hours: false
+positions:
+  - sales engineer
+  - software engineer in testing
+  - software developer in testing
+  - quality assurance engineer
+  - software tester
+  - automation testing engineer
+  - software engineer in automation testing
+  - test2
+locations:
+  - San Diego
+  - California
+  - Orange County California
+  - Los Angeles
+  - San Jose California
+  - Austin
+  - Seattle
+  - Minneapolis
+  - Denver
+  - Portland
+  - Boston
+  - New York
+  - Florida
+  - Virginia
+  - San Francisco, CA
+  - Dallas, TX
+  - Atlanta, GA
+  - Washington, D.C.
+  - Chicago, IL
+  - Raleigh, NC
+  - Salt Lake City, UT
+apply_once_at_company: true
+distance: 100
+company_blacklist: []
+title_blacklist:
+  - php
+  - azure
+  - .net
+  - c#
+  - c++
+  - staff
+  - embedded
+  - angular
+  - vue
+  - ruby
+  - flutter
+  - snowflake
+  - databricks
+  - scala
+  - perl
+  - golang
+  - rust
+  - unity
+  - crypto
+  - blockchain
+  - web3
+  - solidity
+  - drupal
+  - joomla
+  - wordpress
+  - civil
+  - mechanical
+  - electrical
+  - senior
+  - staff
+  - lead
+  - principal
+  - director
+  - executive
+  - manager
+  - vp
+  - president
+  - ceo
+  - cto
+  - founder
+  - co-founder
+  - owner
+  - partner
+  - founding
+  - native
+  - sr.
+location_blacklist: []
+job_applicants_threshold:
+  min_applicants: 0
+  max_applicants: 90
+llm_model_type: openai
+llm_model: gpt-4o-mini
